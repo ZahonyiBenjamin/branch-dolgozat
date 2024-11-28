@@ -24,3 +24,7 @@ git checkout ag2
 git add .
 git commit -m "Join The Song"
 git push origin ag2
+
+git add .
+git commit -m "Sincerely"
+git push origin ag2
