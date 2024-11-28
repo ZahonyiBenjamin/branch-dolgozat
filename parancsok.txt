@@ -11,3 +11,6 @@ git add .
 git commit -m "Comedy"
 git push origin ag1
 
+git add .
+git commit -m "Gurenge"
+git push origin ag1
