@@ -1,4 +1,9 @@
 git clone https://github.com/ZahonyiBenjamin/branch-dolgozat.git
+
 git branch ag1
 git checkout ag1
+
 git add .
+git commit -m "Black Catcher"
+git push origin ag1
+
