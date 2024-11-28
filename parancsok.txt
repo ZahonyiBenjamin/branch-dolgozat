@@ -1,1 +1,3 @@
 git clone https://github.com/ZahonyiBenjamin/branch-dolgozat.git
+git branch ag1
+git checkout ag1
