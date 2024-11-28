@@ -1,5 +1,7 @@
 git clone https://github.com/ZahonyiBenjamin/branch-dolgozat.git
 
+
+
 git branch ag1
 git checkout ag1
 
@@ -18,6 +20,8 @@ git push origin ag1
 git checkout main
 git merge ag1
 
+
+
 git branch ag2
 git checkout ag2
 
@@ -32,3 +36,6 @@ git push origin ag2
 git add .
 git commit -m "Like Flames"
 git push origin ag2
+
+git checkout main
+git merge ag2
