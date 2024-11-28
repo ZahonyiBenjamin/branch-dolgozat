@@ -14,3 +14,13 @@ git push origin ag1
 git add .
 git commit -m "Gurenge"
 git push origin ag1
+
+git checkout main
+git merge ag1
+
+git branch ag2
+git checkout ag2
+
+git add .
+git commit -m "Join The Song"
+git push origin ag2
